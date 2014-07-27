@@ -20,7 +20,7 @@
     "moment": "2.5.1",
     "jquery": "~1.10.2",
     "jquery-ui": "~1.10.3",
-    "fullcalendar": "git@github.com:MrBuBBLs/fullcalendar.git#mb-master"
+    "fullcalendar": "https://github.com/MrBuBBLs/fullcalendar.git#mb-master"
   },
   "devDependencies": {
     "angular-mocks": "~1.x",
